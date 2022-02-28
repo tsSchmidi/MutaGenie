@@ -8,7 +8,7 @@ Install the Python module "xlrd".
 
 ## While using MutaGenie:
 
-Paste the full plasmid sequence in cell G2. Paste the coding sequence of the gene in cell G5. Indicate the desired mutation in cell G8 (e.g. "S101A").
+Paste the full plasmid sequence in cell G2. Paste the coding sequence of the gene in cell G5. Indicate the desired mutation in cell G8 (e.g. "S101A"). Make sure the spreadsheet and the script are in the same folder.
 
 Optional: adjust parameters.
 
